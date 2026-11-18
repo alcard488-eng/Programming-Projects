@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
     // 1. Information about the program
-    cout << "Executor: Student" << endl;
+    cout << "Dmytro Pivtoratskyi" << endl;
     cout << "Variant: 177" << endl;
     cout << "Task: Calculate the sum of a power series "
         << "with the specified accuracy." << endl;
